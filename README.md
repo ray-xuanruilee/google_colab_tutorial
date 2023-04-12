@@ -1,4 +1,3 @@
-# google_colab_tutorial
 A quick tutorial on how to use **Google Colab** covering:
 1. Changing Runtime Type. ***(Provision a GPU / TPU, useful for Deep Learning.)***
 2. Uploading Data to Google Colab.
